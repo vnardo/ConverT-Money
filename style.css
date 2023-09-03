@@ -7,11 +7,11 @@
 }
 
 body {
-    background-color: #8A51FC;
+    background-color: #ffffff;
 }
 
 .img-logo {
-    width: 300px;
+    width: 200px;
     display: block;
     margin: 20px auto;
 }
@@ -63,7 +63,7 @@ input {
 
 button {
     border-radius: 5px;
-    background: #772FD3;
+    background: #00d8a2;
     width: 327px;
     height: 48px;
     color: #ffffff;
@@ -84,7 +84,7 @@ button:active {
 
 section {
     border-radius: 20px;
-    border: 1px solid #772FD3;
+    border: 1px solid #04d3ac;
     padding: 12px;
     display: flex;
     flex-direction: column;
@@ -100,6 +100,8 @@ section {
 
 .arrow {
     margin: 15px;
+    width: 40px;
+    opacity: 0.7;
 }
 
 .currency {

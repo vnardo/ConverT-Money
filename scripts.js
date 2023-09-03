@@ -11,6 +11,7 @@ function convertValues(){
     const dolarToday = 5.2
     const euroToday = 6.2
     const libraToday = 6.3  
+    const realToday = 0.4
 
     if(currencySelect.value == "dolar"){ //se o select tiver selecionado o valor do dolar, entre aqui
         currencyValueConverted.innerHTML = new Intl.NumberFormat("en-US", {
@@ -61,6 +62,12 @@ function changeCurrency(){
         currencyName.innerHTML = "Libra"
         currencyImg.src = "./assets/libra.png"
         currencyMoney.innerHTML = "0,00 £"
+    }
+
+    if (currencySelect.value == "real") {
+        currencyName.innerHTML = "Real"
+        currencyImg.src = "./assets/real.png"
+        currencyMoney.innerHTML = "R$ 0,00"
     }
 
     convertValues()
