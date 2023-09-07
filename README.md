@@ -1,5 +1,5 @@
 <h1 >ConverTex - Conversor de Valores 💸 </h1>
-<p>Este é o Conversor de Valores, uma aplicação web desenvolvida com o auxílio do curso de programação DevClub. Esta aplicação permite aos usuários converter diferentes tipos de valores, como moedas, unidades de medida, temperaturas, e muito mais.</p>
+<p>Este é o Conversor de Valores, uma aplicação web desenvolvida com o auxílio do curso de programação DevClub. Esta aplicação permite aos usuários converter diferentes tipos de moedas.</p>
 <br>
 <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZraFCVNAMKDF_2xcL_iDypfXv-cMOMl1fLiDVU3I66QrhXbtd">
 <br>
