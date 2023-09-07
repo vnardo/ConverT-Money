@@ -24,9 +24,6 @@
 - Insira o valor que deseja converter e selecione as unidades de origem e destino.
 - Clique no botão "Converter" e o resultado será exibido instantaneamente.
 
-Contribuições
-Se você deseja contribuir para o desenvolvimento deste projeto, sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests). Estamos sempre abertos a melhorias e sugestões!
-
 <h3>Layout do projeto</h3>
 <img src="https://github.com/vnardo/ConverT-Money/assets/141376233/202e19d3-0789-482a-b53e-ab426bd90acc">
 
