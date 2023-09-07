@@ -27,6 +27,9 @@
 Contribuições
 Se você deseja contribuir para o desenvolvimento deste projeto, sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests). Estamos sempre abertos a melhorias e sugestões!
 
+<h3>Layout do projeto</h3>
+<img src="https://github.com/vnardo/ConverT-Money/assets/141376233/202e19d3-0789-482a-b53e-ab426bd90acc">
+
 <h2>Autor</h2>
 <p>Este projeto foi desenvolvido por Victor Nardo, com base no conhecimento adquirido no curso de programação DevClub.
 Espero que você encontre o Conversor de Valores útil e fácil de usar. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Aproveite a conversão de valores de forma rápida e conveniente!</p>
